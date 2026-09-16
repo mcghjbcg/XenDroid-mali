@@ -1,2 +1,3 @@
 # XenDroid-mali
 This branch is based on XenDroid and optimised for maligpu compatibility
+You can find MineGraph (me) on .bilibili ...
